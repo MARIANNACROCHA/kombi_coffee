@@ -30,6 +30,11 @@ p {
     padding-right: 8px;
 }
 
+.menu ul li:last-child {
+    border: none;
+}
+
+
 #main_image {
     margin-left: 8px;
 
