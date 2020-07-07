@@ -1,0 +1,41 @@
+body {
+    background-color: #FFE3AA;
+    font-family: 'Ubuntu', sans-serif;
+    display: block;
+    margin: 8px;
+    padding: 10px;
+    text-align: justify;
+}
+
+h1, h2 {
+    color: #AA7E59;
+}
+
+h1 {
+    font-size: 32px;
+}
+
+p {
+   line-height: 25px;
+}
+
+#logo {
+    border-radius: 50%;
+
+}
+
+.menu ul li {
+    display: inline;
+    border-right: 1px black solid;
+    padding-right: 8px;
+}
+
+#main_image {
+    margin-left: 8px;
+
+}
+
+#coffee {
+width: 100%;
+height: 100%;
+}
