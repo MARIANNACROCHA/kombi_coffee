@@ -77,7 +77,7 @@ figcaption {
 
 a {
     text-decoration: none;
-    font-weight: 700px;
+    font-weight: 700;
 }
 
 #menu {
@@ -105,10 +105,45 @@ a {
     background: #D2691E;
 }
 
+#products {
+    overflow-x:auto;
+    background-color: #e6d3c1;
+    padding: 5px;
+    margin:0 auto;
+    box-sizing: border-box;
+    width: 850px;
+}
 
+table {
+    border-collapse: collapse
+}
+
+td {
+     padding: 3px;
+ }
+
+ tr:hover {
+     background-color: #f5f5f5;
+    }
+
+ #hot_coffee{
+     border-radius: 50%;
+ }
+
+ #iced_coffee {
+     border-radius: 50%;
+ }
+
+ #irish {
+     border-radius: 50%;
+ }
+
+ #cocoa {
+     border-radius: 50%;
+ }
+ 
 footer {
     padding: 10px;
     border-top: ridge 2px #630;
     text-align: right;
 }
-
